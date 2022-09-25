@@ -1,0 +1,226 @@
+[
+  {
+    "name": "枪剑士",
+    "name_en": "gunblader",
+    "flag": "gb",
+    "file_list": [
+      "sprite_character_gunblader_equipment_avatar_belt.NPK",
+      "sprite_character_gunblader_equipment_avatar_cap.NPK",
+      "sprite_character_gunblader_equipment_avatar_neck.NPK",
+      "sprite_character_gunblader_equipment_avatar_face.NPK",
+      "sprite_character_gunblader_equipment_avatar_hair.NPK",
+      "sprite_character_gunblader_equipment_avatar_coat.NPK",
+      "sprite_character_gunblader_equipment_avatar_shoes.NPK",
+      "sprite_character_gunblader_equipment_avatar_pants.NPK",
+      "sprite_character_gunblader_equipment_avatar_skin.NPK"
+    ]
+  },
+  {
+    "name": "魔枪士/魔枪兵",
+    "name_en": "demoniclancer",
+    "flag": "dl",
+    "file_list": [
+      "sprite_character_demoniclancer_equipment_avatar_belt.NPK",
+      "sprite_character_demoniclancer_equipment_avatar_cap.NPK",
+      "sprite_character_demoniclancer_equipment_avatar_neck.NPK",
+      "sprite_character_demoniclancer_equipment_avatar_face.NPK",
+      "sprite_character_demoniclancer_equipment_avatar_hair.NPK",
+      "sprite_character_demoniclancer_equipment_avatar_coat.NPK",
+      "sprite_character_demoniclancer_equipment_avatar_shoes.NPK",
+      "sprite_character_demoniclancer_equipment_avatar_pants.NPK",
+      "sprite_character_demoniclancer_equipment_avatar_skin.NPK"
+    ]
+  },
+  {
+    "name": "女骑士/守护者",
+    "name_en": "knight",
+    "flag": "kn",
+    "file_list": [
+      "sprite_character_knight_equipment_avatar_belt.NPK",
+      "sprite_character_knight_equipment_avatar_cap.NPK",
+      "sprite_character_knight_equipment_avatar_neck.NPK",
+      "sprite_character_knight_equipment_avatar_face.NPK",
+      "sprite_character_knight_equipment_avatar_hair.NPK",
+      "sprite_character_knight_equipment_avatar_coat.NPK",
+      "sprite_character_knight_equipment_avatar_shoes.NPK",
+      "sprite_character_knight_equipment_avatar_pants.NPK",
+      "sprite_character_knight_equipment_avatar_skin.NPK"
+    ]
+  },
+  {
+    "name": "格斗家（男）",
+    "name_en": "fighter_male",
+    "flag": "fm",
+    "file_list": [
+      "sprite_character_fighter_atequipment_avatar_belt.NPK",
+      "sprite_character_fighter_atequipment_avatar_cap.NPK",
+      "sprite_character_fighter_atequipment_avatar_neck.NPK",
+      "sprite_character_fighter_atequipment_avatar_face.NPK",
+      "sprite_character_fighter_atequipment_avatar_hair.NPK",
+      "sprite_character_fighter_atequipment_avatar_coat.NPK",
+      "sprite_character_fighter_atequipment_avatar_shoes.NPK",
+      "sprite_character_fighter_atequipment_avatar_pants.NPK",
+      "sprite_character_fighter_atequipment_avatar_skin.NPK"
+    ]
+  },
+  {
+    "name": "格斗家（女）",
+    "name_en": "fighter_female",
+    "flag": "ft",
+    "file_list": [
+      "sprite_character_fighter_equipment_avatar_belt.NPK",
+      "sprite_character_fighter_equipment_avatar_cap.NPK",
+      "sprite_character_fighter_equipment_avatar_neck.NPK",
+      "sprite_character_fighter_equipment_avatar_face.NPK",
+      "sprite_character_fighter_equipment_avatar_hair.NPK",
+      "sprite_character_fighter_equipment_avatar_coat.NPK",
+      "sprite_character_fighter_equipment_avatar_shoes.NPK",
+      "sprite_character_fighter_equipment_avatar_pants.NPK",
+      "sprite_character_fighter_equipment_avatar_skin.NPK"
+    ]
+  },
+  {
+    "name": "神枪手（女）",
+    "name_en": "gunner_female",
+    "flag": "gg",
+    "file_list": [
+      "sprite_character_gunner_atequipment_avatar_belt.NPK",
+      "sprite_character_gunner_atequipment_avatar_cap.NPK",
+      "sprite_character_gunner_atequipment_avatar_neck.NPK",
+      "sprite_character_gunner_atequipment_avatar_face.NPK",
+      "sprite_character_gunner_atequipment_avatar_hair.NPK",
+      "sprite_character_gunner_atequipment_avatar_coat.NPK",
+      "sprite_character_gunner_atequipment_avatar_shoes.NPK",
+      "sprite_character_gunner_atequipment_avatar_pants.NPK",
+      "sprite_character_gunner_atequipment_avatar_skin.NPK"
+    ]
+  },
+  {
+    "name": "神枪手（男）",
+    "name_en": "gunner_male",
+    "flag": "gn",
+    "file_list": [
+      "sprite_character_gunner_equipment_avatar_belt.NPK",
+      "sprite_character_gunner_equipment_avatar_cap.NPK",
+      "sprite_character_gunner_equipment_avatar_neck.NPK",
+      "sprite_character_gunner_equipment_avatar_face.NPK",
+      "sprite_character_gunner_equipment_avatar_hair.NPK",
+      "sprite_character_gunner_equipment_avatar_coat.NPK",
+      "sprite_character_gunner_equipment_avatar_shoes.NPK",
+      "sprite_character_gunner_equipment_avatar_pants.NPK",
+      "sprite_character_gunner_equipment_avatar_skin.NPK"
+    ]
+  },
+  {
+    "name": "魔法师（男）",
+    "name_en": "mage_male",
+    "flag": "mm",
+    "file_list": [
+      "sprite_character_mage_atequipment_avatar_belt.NPK",
+      "sprite_character_mage_atequipment_avatar_cap.NPK",
+      "sprite_character_mage_atequipment_avatar_neck.NPK",
+      "sprite_character_mage_atequipment_avatar_face.NPK",
+      "sprite_character_mage_atequipment_avatar_hair.NPK",
+      "sprite_character_mage_atequipment_avatar_coat.NPK",
+      "sprite_character_mage_atequipment_avatar_shoes.NPK",
+      "sprite_character_mage_atequipment_avatar_pants.NPK",
+      "sprite_character_mage_atequipment_avatar_skin.NPK"
+    ]
+  },
+  {
+    "name": "魔法师（女）",
+    "name_en": "mage_female",
+    "flag": "mg",
+    "file_list": [
+      "sprite_character_mage_equipment_avatar_belt.NPK",
+      "sprite_character_mage_equipment_avatar_cap.NPK",
+      "sprite_character_mage_equipment_avatar_neck.NPK",
+      "sprite_character_mage_equipment_avatar_face.NPK",
+      "sprite_character_mage_equipment_avatar_hair.NPK",
+      "sprite_character_mage_equipment_avatar_coat.NPK",
+      "sprite_character_mage_equipment_avatar_shoes.NPK",
+      "sprite_character_mage_equipment_avatar_pants.NPK",
+      "sprite_character_mage_equipment_avatar_skin.NPK"
+    ]
+  },
+  {
+    "name": "圣职者（女）",
+    "name_en": "priest_female",
+    "flag": "pg",
+    "file_list": [
+      "sprite_character_priest_atequipment_avatar_belt.NPK",
+      "sprite_character_priest_atequipment_avatar_cap.NPK",
+      "sprite_character_priest_atequipment_avatar_neck.NPK",
+      "sprite_character_priest_atequipment_avatar_face.NPK",
+      "sprite_character_priest_atequipment_avatar_hair.NPK",
+      "sprite_character_priest_atequipment_avatar_coat.NPK",
+      "sprite_character_priest_atequipment_avatar_shoes.NPK",
+      "sprite_character_priest_atequipment_avatar_pants.NPK",
+      "sprite_character_priest_atequipment_avatar_skin.NPK"
+    ]
+  },
+  {
+    "name": "圣职者（男）",
+    "name_en": "priest_male",
+    "flag": "pr",
+    "file_list": [
+      "sprite_character_priest_equipment_avatar_belt.NPK",
+      "sprite_character_priest_equipment_avatar_cap.NPK",
+      "sprite_character_priest_equipment_avatar_neck.NPK",
+      "sprite_character_priest_equipment_avatar_face.NPK",
+      "sprite_character_priest_equipment_avatar_hair.NPK",
+      "sprite_character_priest_equipment_avatar_coat.NPK",
+      "sprite_character_priest_equipment_avatar_shoes.NPK",
+      "sprite_character_priest_equipment_avatar_pants.NPK",
+      "sprite_character_priest_equipment_avatar_skin.NPK"
+    ]
+  },
+  {
+    "name": "鬼剑士（女）",
+    "name_en": "swordman_female",
+    "flag": "sg",
+    "file_list": [
+      "sprite_character_swordman_atequipment_avatar_belt.NPK",
+      "sprite_character_swordman_atequipment_avatar_cap.NPK",
+      "sprite_character_swordman_atequipment_avatar_neck.NPK",
+      "sprite_character_swordman_atequipment_avatar_face.NPK",
+      "sprite_character_swordman_atequipment_avatar_hair.NPK",
+      "sprite_character_swordman_atequipment_avatar_coat.NPK",
+      "sprite_character_swordman_atequipment_avatar_shoes.NPK",
+      "sprite_character_swordman_atequipment_avatar_pants.NPK",
+      "sprite_character_swordman_atequipment_avatar_skin.NPK"
+    ]
+  },
+  {
+    "name": "鬼剑士（男）",
+    "name_en": "swordman_male",
+    "flag": "sm",
+    "file_list": [
+      "sprite_character_swordman_equipment_avatar_belt.NPK",
+      "sprite_character_swordman_equipment_avatar_cap.NPK",
+      "sprite_character_swordman_equipment_avatar_neck.NPK",
+      "sprite_character_swordman_equipment_avatar_face.NPK",
+      "sprite_character_swordman_equipment_avatar_hair.NPK",
+      "sprite_character_swordman_equipment_avatar_coat.NPK",
+      "sprite_character_swordman_equipment_avatar_shoes.NPK",
+      "sprite_character_swordman_equipment_avatar_pants.NPK",
+      "sprite_character_swordman_equipment_avatar_skin.NPK"
+    ]
+  },
+  {
+    "name": "暗夜使者",
+    "name_en": "thief",
+    "flag": "th",
+    "file_list": [
+      "sprite_character_thief_equipment_avatar_belt.NPK",
+      "sprite_character_thief_equipment_avatar_cap.NPK",
+      "sprite_character_thief_equipment_avatar_neck.NPK",
+      "sprite_character_thief_equipment_avatar_face.NPK",
+      "sprite_character_thief_equipment_avatar_hair.NPK",
+      "sprite_character_thief_equipment_avatar_coat.NPK",
+      "sprite_character_thief_equipment_avatar_shoes.NPK",
+      "sprite_character_thief_equipment_avatar_pants.NPK",
+      "sprite_character_thief_equipment_avatar_skin.NPK"
+    ]
+  }
+]
